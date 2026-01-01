@@ -7,7 +7,7 @@ import Button from '@mui/material/Button';
 function MainBanner(){
 
     return (
-        <div className="flex flex-col md:flex-row bg-[#F2F0F1] mt-6 gap-4">
+        <div className="flex flex-col md:flex-row lg:justify-center bg-[#F2F0F1] mt-6 gap-4">
 
             <div className=" mt-[40px] ml-[16px] md:mt-[100px] md:ml-[100px]">
             

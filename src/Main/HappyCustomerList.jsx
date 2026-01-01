@@ -3,7 +3,7 @@ import HappyCustomerCard from './HappyCustomerCard.jsx'
 function HappyCustomerList(){
 
     return(
-        <div className='flex mt-6 md:mt-[40px] ml-[15px] md:ml-[100px] gap-4'>
+        <div className='flex 2xl:justify-center mt-6 md:mt-[40px] ml-[15px] md:ml-[100px] gap-4'>
 
             <HappyCustomerCard name={'Sarah M.'} comment={`'"I'm blown away by the quality and style of the cloth I received from Shop.co. From casual wera to elegant dresses, every piece I'vev bought has exceeded my expectations."`}/>
             <div className='hidden md:block'>
